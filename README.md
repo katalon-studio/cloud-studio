@@ -22,7 +22,7 @@ The Katalon Cloud Studio includes the following main components:
 * The Katalon Editor is available to Katalon users who have registered to the Cloud Studio Beta program.
 
 ## Documentation
-For instructions on using Katalon Cloud Studio, visit our documentation website: [Documentation](https://docs.katalon.com/docs/general-information/release-notes/katalon-cloud-studio/beta---april-26-2023)
+For instructions on using Katalon Cloud Studio, visit our documentation website: [Documentation](https://docs.katalon.com/docs/create-tests/create-tests-using-katalon-cloud-studio/overview)
 
 ## Feedback and support
 * Submit bug reports or product ideas via this repo: go to Issues and add new one.
